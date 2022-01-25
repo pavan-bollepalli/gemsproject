@@ -10,3 +10,5 @@ conflict situation creation
 aaaaaaassssssssdfghj
 
 change :- for stash test file in progres
+
+change :- for wi6 on local master to test normal
