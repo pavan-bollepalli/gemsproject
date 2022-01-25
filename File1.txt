@@ -13,4 +13,8 @@ change :- for stash test file in progres
 
 change :- for wi6 on local master to test normal
 
-change :- by team mate on remote 
+
+change7 :- by team mate on remote 
+
+change8 :- on local master WI7
+
